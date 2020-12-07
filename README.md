@@ -1,5 +1,6 @@
 ## OpenSpace-VisLink
 Getting up and running from scratch:
+#### If at the Bell, all clone and setup steps have been done already. Continue to 'Run VisLink'
 #### Clone this repo
 In Git Bash:
 ```
