@@ -1,5 +1,5 @@
 ## OpenSpace-VisLink
-#### If at the Bell, all clone and setup steps have been done already. Continue to 'Run VisLink'.
+#### If at the Bell, all clone and setup steps have been done already. Continue to 'Run VisLink'. Unity has already been installed.
 <br>
 
 Getting up and running from scratch:
@@ -42,6 +42,6 @@ Run OpenSpace with the command line arguments:
 ```
 -f <path_to>/vislink.cfg
 ```
-This will automatically load the bell.xml file, but you can change that in the vislink.cfg file.   
-Next, open the cloned VisLinkUnityTest project. You will need to install a recent Unity version (tested with 2019.4.xxf1).   
+This will automatically load the 'bell.xml' file, but you can change that in the vislink.cfg file.   
+Next, open the cloned 'VisLinkUnityTest' project. You will need to install a recent Unity version (tested with 2019.4.xxf1).   
 Once OpenSpace is fully loaded (showing planets), click 'Play' in Unity.   
