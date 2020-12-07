@@ -44,7 +44,7 @@ Run OpenSpace with the command line arguments:
 ```
 This will automatically load the 'bell.xml' file, but you can change that in the vislink.cfg file.   
 Next, open the cloned 'VisLinkUnityTest' project. You will need to install a recent Unity version (tested with 2019.4.xxf1).   
-Once OpenSpace is fully loaded (showing planets), click 'Play' in Unity.   
+Once OpenSpace is fully loaded (showing planets on master node), click 'Play' in Unity.   
 #### Run VisLink at the Bell
 ###### OpenSpace
 On all three computers:
@@ -63,4 +63,4 @@ Nodes: C:/Users/uniview/OpenSpace_VisLink
 On all three computers:
 - Search and open 'Unity Hub'.
 - Select the 'VisLinkTest' project.
-- Once OpenSpace is fully loaded (showing planets), click the Play button at the top-middle of Unity.
+- Once OpenSpace is fully loaded (showing planets on master node), click the Play button at the top-middle of Unity.
