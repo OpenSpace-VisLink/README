@@ -63,4 +63,4 @@ Nodes: C:/Users/uniview/OpenSpace_VisLink
 On all three computers:
 - Search and open 'Unity Hub'.
 - Select the 'VisLinkTest' project.
-- Once OpenSpace is fully loaded (showing planets), click the Play button at the top of Unity.
+- Once OpenSpace is fully loaded (showing planets), click the Play button at the top-middle of Unity.
