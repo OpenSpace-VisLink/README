@@ -3,6 +3,12 @@
 <br>
 
 Getting up and running from scratch:
+
+#### Prerequisites
+
+- Install Microsoft Visual Studio 15, 2017 (x64)
+- Install the [Vulkan SDK](https://vulkan.lunarg.com/sdk/home#windows)
+
 #### Clone this repo
 In Git Bash:
 ```
@@ -22,6 +28,10 @@ In the CMake window
 - Select Visual Studio 2017 and x64 and confirm
 - Click 'Grouped' at the top of the CMake window
 - Check mark OPENSPACE --> OPENSPACE_MODULE_VISLINK
+- Uncheck OPENSPACE --> OPENSPACE_MODULE_CEFWEBGUI
+- Uncheck OPENSPACE --> OPENSPACE_MODULE_WEBGUI
+- Uncheck OPENSPACE --> OPENSPACE_MODULE_WEBBROWSER
+- If necessary, manually locate the Vulkan SDK (usually in C:\VulkanSDK) and the paths to CMAKE entries in Vulkan --> ...
 - Click Configure again
 - Click Generate
 - Click OpenProject  
